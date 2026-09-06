@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 嗨，我是阿右薯叔
 
-<!--
-**yuwechang/yuwechang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 做遊戲，也教你怎麼做。
 
-Here are some ideas to get you started:
+主要分享 Godot、Unity 遊戲開發教學，
+從零基礎入門，到遊戲開發背後的技術與原理。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📺 YouTube
+遊戲開發教學 → 阿右薯叔 GameDev
+
+## 🎮 Play My Games
+在 itch.io 直接遊玩我的教學作品與 Demo
+
+## 💻 Projects
+這裡可以找到教學相關的原始碼與開發專案。
