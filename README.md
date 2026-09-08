@@ -14,5 +14,5 @@
 🕹️ [阿右薯叔 on itch.io](https://yuwechang.itch.io/)  
 直接遊玩教學作品與 Demo。
 
-## 💻 Projects(https://github.com/yuwechang?tab=repositories)
+## 💻 [Projects](https://github.com/yuwechang?tab=repositories)
 這裡可以找到教學相關的原始碼與開發專案。
